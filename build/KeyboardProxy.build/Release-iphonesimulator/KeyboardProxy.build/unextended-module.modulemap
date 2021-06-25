@@ -1,0 +1,10 @@
+framework module KeyboardProxy {
+  umbrella header "KeyboardProxy.h"
+
+  export *
+  module * { export * }
+}
+
+module KeyboardProxy.__Swift {
+    exclude header "KeyboardProxy-Swift.h"
+}
