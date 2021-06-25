@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		849C1203267D7A1D00A79DEF /* KeyboardProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = 849C1201267D7A1D00A79DEF /* KeyboardProxy.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		849C120A267D7A4700A79DEF /* KeyboardProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849C1209267D7A4700A79DEF /* KeyboardProxy.swift */; };
-		849F018A26856D730001A0CE /* Chat.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 849F018926856D730001A0CE /* Chat.framework */; };
+		849F018E2685C9940001A0CE /* Chat.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 849F018D2685C9940001A0CE /* Chat.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -17,7 +17,7 @@
 		849C1201267D7A1D00A79DEF /* KeyboardProxy.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KeyboardProxy.h; sourceTree = "<group>"; };
 		849C1202267D7A1D00A79DEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		849C1209267D7A4700A79DEF /* KeyboardProxy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardProxy.swift; sourceTree = "<group>"; };
-		849F018926856D730001A0CE /* Chat.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Chat.framework; sourceTree = "<group>"; };
+		849F018D2685C9940001A0CE /* Chat.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Chat.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -25,7 +25,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				849F018A26856D730001A0CE /* Chat.framework in Frameworks */,
+				849F018E2685C9940001A0CE /* Chat.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -62,7 +62,7 @@
 		849C120B267D7AEA00A79DEF /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				849F018926856D730001A0CE /* Chat.framework */,
+				849F018D2685C9940001A0CE /* Chat.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";

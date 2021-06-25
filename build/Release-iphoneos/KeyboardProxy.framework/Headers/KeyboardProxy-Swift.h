@@ -188,7 +188,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
-@import Chat;
 @import ObjectiveC;
 #endif
 
@@ -219,12 +218,9 @@ SWIFT_PROTOCOL_NAMED("KeyboardControllerCallback")
 @class UIViewController;
 
 SWIFT_CLASS_NAMED("KeyboardProxy")
-@interface KeyboardProxy : NSObject <KeyboardControllerDelegate>
+@interface KeyboardProxy : NSObject
 - (void)onLaunchKeyboardWithViewController:(UIViewController * _Nonnull)viewController delegate:(id <KeyboardControllerCallback> _Nonnull)delegate;
 - (void)onLoginWithUsername:(NSString * _Nonnull)username os:(NSString * _Nonnull)os imei:(NSString * _Nonnull)imei;
-- (void)onKeyPadPressedWithText:(NSString * _Nullable)text;
-- (void)textLeftOfCusorWithText:(NSString * _Nullable)text;
-- (void)textRightOfCusorWithText:(NSString * _Nullable)text;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 

@@ -224,10 +224,10 @@ final internal class BlockEncryptor : Chat.Cryptor, Chat.Updatable {
   @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
   @objc deinit
 }
-@objc public protocol KeyboardControllerDelegate {
-  @objc func onKeyPadPressed(text: Swift.String?)
-  @objc func textLeftOfCusor(text: Swift.String?)
-  @objc func textRightOfCusor(text: Swift.String?)
+public protocol KeyboardControllerDelegate {
+  func onKeyPadPressed(text: Swift.String?)
+  func textLeftOfCusor(text: Swift.String?)
+  func textRightOfCusor(text: Swift.String?)
 }
 final public class OCB : Chat.BlockMode {
   public enum Mode {

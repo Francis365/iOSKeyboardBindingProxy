@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/KeyboardProxy-Swift.h</key>
 		<data>
-		h78sZjkLjjGjz80pCCO5qDlyTgc=
+		elqtA7XOEwtspnHSQ0schh4kqNI=
 		</data>
 		<key>Headers/KeyboardProxy.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/KeyboardProxy.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		xVzj87TRLHIsWZ0scYGBW54G61I=
+		uoM11yJJsvPULaukL8Qhd5L+6QE=
 		</data>
 		<key>Modules/KeyboardProxy.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		xVzj87TRLHIsWZ0scYGBW54G61I=
+		uoM11yJJsvPULaukL8Qhd5L+6QE=
 		</data>
 		<key>Modules/KeyboardProxy.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/KeyboardProxy.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		dfb0w8FslwBAkRfHESJvExEDWfg=
+		ebZe2FJiQQZ3k/P+y41YML6/+A8=
 		</data>
 		<key>Modules/KeyboardProxy.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/KeyboardProxy.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		dfb0w8FslwBAkRfHESJvExEDWfg=
+		ebZe2FJiQQZ3k/P+y41YML6/+A8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EsAHskefpReuoU1yxKZ+s6rme5soZC9Tsb2A8UR1J+Q=
+			ShSqXoBuCgeWK2TLbPUF4acKxrG9B6NSaJ39ef+wa7E=
 			</data>
 		</dict>
 		<key>Headers/KeyboardProxy.h</key>
@@ -65,14 +65,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rXwub+E7QW/3Ot0xJx4qahSkmVUdHJUCOV+uAmcgyHQ=
+			qF8GQ2NJ/QSKX3bEyUwM8rr9/hAAS/yREIbp6o0HNLM=
 			</data>
 		</dict>
 		<key>Modules/KeyboardProxy.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rXwub+E7QW/3Ot0xJx4qahSkmVUdHJUCOV+uAmcgyHQ=
+			qF8GQ2NJ/QSKX3bEyUwM8rr9/hAAS/yREIbp6o0HNLM=
 			</data>
 		</dict>
 		<key>Modules/KeyboardProxy.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -86,7 +86,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AAAi6142lQrXQXCrOa4qkz3xOLYDB7eOXHAhKDzS1mo=
+			8WlLOOi3KI8Fx8yFeOTwgd6HzlWKSLNLdMzXW4i6RUc=
 			</data>
 		</dict>
 		<key>Modules/KeyboardProxy.swiftmodule/x86_64.swiftdoc</key>
@@ -100,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AAAi6142lQrXQXCrOa4qkz3xOLYDB7eOXHAhKDzS1mo=
+			8WlLOOi3KI8Fx8yFeOTwgd6HzlWKSLNLdMzXW4i6RUc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

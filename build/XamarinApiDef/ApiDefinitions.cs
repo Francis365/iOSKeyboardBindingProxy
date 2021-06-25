@@ -42,17 +42,5 @@ namespace Binding
 		// -(void)onLoginWithUsername:(NSString * _Nonnull)username os:(NSString * _Nonnull)os imei:(NSString * _Nonnull)imei;
 		[Export ("onLoginWithUsername:os:imei:")]
 		void OnLoginWithUsername (string username, string os, string imei);
-
-		// -(void)onKeyPadPressedWithText:(NSString * _Nullable)text;
-		[Export ("onKeyPadPressedWithText:")]
-		void OnKeyPadPressedWithText ([NullAllowed] string text);
-
-		// -(void)textLeftOfCusorWithText:(NSString * _Nullable)text;
-		[Export ("textLeftOfCusorWithText:")]
-		void TextLeftOfCusorWithText ([NullAllowed] string text);
-
-		// -(void)textRightOfCusorWithText:(NSString * _Nullable)text;
-		[Export ("textRightOfCusorWithText:")]
-		void TextRightOfCusorWithText ([NullAllowed] string text);
 	}
 }

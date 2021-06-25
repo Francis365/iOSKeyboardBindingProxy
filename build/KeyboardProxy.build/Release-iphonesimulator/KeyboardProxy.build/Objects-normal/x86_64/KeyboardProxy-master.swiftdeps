@@ -1,5 +1,5 @@
 version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
 options: "836cc3f5ec171338ac189847167a7041"
-build_time: [1624588007, 56791000]
+build_time: [1624609432, 588496000]
 inputs:
   "/Users/admin/Desktop/KeyboardProxy/KeyboardProxy/KeyboardProxy.swift": [9223372036, 854775807]

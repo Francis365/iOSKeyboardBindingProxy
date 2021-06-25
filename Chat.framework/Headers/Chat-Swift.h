@@ -226,14 +226,6 @@ SWIFT_CLASS("_TtC4Chat18KeyboardController")
 @end
 
 
-SWIFT_PROTOCOL("_TtP4Chat26KeyboardControllerDelegate_")
-@protocol KeyboardControllerDelegate
-- (void)onKeyPadPressedWithText:(NSString * _Nullable)text;
-- (void)textLeftOfCusorWithText:(NSString * _Nullable)text;
-- (void)textRightOfCusorWithText:(NSString * _Nullable)text;
-@end
-
-
 SWIFT_CLASS("_TtC4Chat28TransactionEndViewController")
 @interface TransactionEndViewController : UIViewController
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
