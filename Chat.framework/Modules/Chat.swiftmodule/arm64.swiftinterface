@@ -5,6 +5,7 @@ import CommonCrypto
 import CoreGraphics
 import Darwin
 import Foundation
+import Metal
 import Swift
 import UIKit
 final public class GCM : Chat.BlockMode {
@@ -228,6 +229,9 @@ public protocol KeyboardControllerDelegate {
   func onKeyPadPressed(text: Swift.String?)
   func textLeftOfCusor(text: Swift.String?)
   func textRightOfCusor(text: Swift.String?)
+  func enterKey(text: Swift.String?)
+  func deleteKey()
+  func changeTosymbols()
 }
 final public class OCB : Chat.BlockMode {
   public enum Mode {
@@ -1485,6 +1489,8 @@ public struct HKDF {
 public class login {
   public init(username: Swift.String, os: Swift.String, imei: Swift.String)
   public func loginAuth()
+  public func firstLogin()
+  public func getUserData()
   @objc deinit
 }
 extension Array where Element == Swift.UInt8 {

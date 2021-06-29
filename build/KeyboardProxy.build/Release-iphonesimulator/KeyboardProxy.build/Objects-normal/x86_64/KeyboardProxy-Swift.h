@@ -213,6 +213,9 @@ SWIFT_PROTOCOL_NAMED("KeyboardControllerCallback")
 - (void)onKeyPadPressedWithText:(NSString * _Nullable)text;
 - (void)textLeftOfCusorWithText:(NSString * _Nullable)text;
 - (void)textRightOfCusorWithText:(NSString * _Nullable)text;
+- (void)enterKeyWithText:(NSString * _Nullable)text;
+- (void)deleteKey;
+- (void)changeTosymbols;
 @end
 
 @class UIViewController;

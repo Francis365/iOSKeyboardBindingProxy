@@ -14,24 +14,15 @@ public protocol KeyboardControllerCallback {
     func onKeyPadPressed(text: String?)
     func textLeftOfCusor(text: String?)
     func textRightOfCusor(text: String?)
+    func enterKey(text: String?)
+    func deleteKey()
+    func changeTosymbols()
 }
 
 @objc(KeyboardProxy)
 public class KeyboardProxy : NSObject, KeyboardControllerDelegate {
     
     private var callback: KeyboardControllerCallback? = nil
-    
-    private class helper: KeyboardControllerDelegate {
-        func onKeyPadPressed(text: String?){
-            
-        }
-        func textLeftOfCusor(text: String?){
-            
-        }
-        func textRightOfCusor(text: String?){
-            
-        }
-    }
     
     @objc
     public func onLaunchKeyboard(viewController: UIViewController, delegate: KeyboardControllerCallback) {
@@ -47,7 +38,7 @@ public class KeyboardProxy : NSObject, KeyboardControllerDelegate {
     @objc
     public func onLogin(username: String, os: String, imei: String) {
         let lg = Chat.login(username: username, os: os, imei: imei)
-        lg.loginAuth()
+        lg.firstLogin()
     }
     
     public func onKeyPadPressed(text: String?){
@@ -60,6 +51,19 @@ public class KeyboardProxy : NSObject, KeyboardControllerDelegate {
     
     public func textRightOfCusor(text: String?){
         callback?.textRightOfCusor(text: text)
+    }
+    
+    
+    public func enterKey(text: String?){
+        callback?.enterKey(text: text)
+    }
+
+    public func deleteKey(){
+        callback?.deleteKey()
+    }
+
+    public func changeTosymbols(){
+        callback?.changeTosymbols()
     }
     
 }

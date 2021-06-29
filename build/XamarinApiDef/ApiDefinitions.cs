@@ -29,6 +29,21 @@ namespace Binding
 		[Abstract]
 		[Export ("textRightOfCusorWithText:")]
 		void TextRightOfCusorWithText ([NullAllowed] string text);
+
+		// @required -(void)enterKeyWithText:(NSString * _Nullable)text;
+		[Abstract]
+		[Export ("enterKeyWithText:")]
+		void EnterKeyWithText ([NullAllowed] string text);
+
+		// @required -(void)deleteKey;
+		[Abstract]
+		[Export ("deleteKey")]
+		void DeleteKey ();
+
+		// @required -(void)changeTosymbols;
+		[Abstract]
+		[Export ("changeTosymbols")]
+		void ChangeTosymbols ();
 	}
 
 	// @interface KeyboardProxy : NSObject

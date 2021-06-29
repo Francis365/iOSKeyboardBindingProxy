@@ -4,37 +4,33 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		/TwGNxtgHDDo7GwS4d7+JRiqXqs=
-		</data>
 		<key>AccountSelectionViewController.nib</key>
 		<data>
-		Gh51o3o7ao6rVr0JU9KAkN8/MSw=
+		NADhd88ZHgZ9LEF7hY4MllwDSh8=
 		</data>
 		<key>AirtimeAmountViewController.nib</key>
 		<data>
-		B/PidkJbgplIlJkSNlTEiauXtMU=
+		Re/WyACm5dYhnWSp/j5lbWtqDKs=
 		</data>
 		<key>AirtimeNetworkViewController.nib</key>
 		<data>
-		NI1iA0z7QQUkPZTlwdn3L5GzPZ8=
+		T1AlT2S50A9OxQV+pvKHeUSE27E=
 		</data>
 		<key>AirtimeNumberViewController.nib</key>
 		<data>
-		r1S1bOwWC/0ufNlXQhWWOXrHkpI=
+		r8NuDajwOVLJ8vYrSElI4cQBEYE=
 		</data>
 		<key>Assets.car</key>
 		<data>
-		fB0B65oGZZxhl2NrwxUBXIzZ4zg=
+		KCTjhh8BJuKNbzp631IAvBTg8ds=
 		</data>
 		<key>BillTypeViewController.nib</key>
 		<data>
-		7X0psquatSCo013+TH5vyljdMvo=
+		fT957HGoHmfX/vfKb4ViV9PLSWA=
 		</data>
 		<key>BillsPlanSelectionViewController.nib</key>
 		<data>
-		bwdpn4TH1Zldwse1kGR+SwYWKWg=
+		/4vH9OphcTHYwBGRkBXs5GI+bzE=
 		</data>
 		<key>Headers/Chat-Swift.h</key>
 		<data>
@@ -46,7 +42,7 @@
 		</data>
 		<key>IcuNumViewController.nib</key>
 		<data>
-		H9N2vKW4pf3vlj+E6u54I/B4v10=
+		skxX3tJ/DCBDet0dnlnGkNRZjJ4=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -54,35 +50,27 @@
 		</data>
 		<key>InputAcctNoViewController.nib</key>
 		<data>
-		X4/D7ApX/jWYThoaWvHkjwNMrrs=
+		EsEcaSjJ2fiOtMQBfY6RtkN5U6g=
 		</data>
 		<key>InputAmountViewController.nib</key>
 		<data>
-		XQmcPXYNSz9THyeMoFTOugRrDG0=
+		7xweZsWuBkL6BCIK7O5H6lj4Ik4=
 		</data>
 		<key>KeyboardController.nib</key>
 		<data>
-		RKDOkCFBIwyA1FsIphoo1Jirch8=
+		icN4IG7ZfTJftO8wlNVEqIuS6Os=
 		</data>
 		<key>LoginViewController.nib</key>
 		<data>
-		KFB1DQBicuY23OvpGXX9WpF8OwM=
-		</data>
-		<key>Modules/.DS_Store</key>
-		<data>
-		IDNF+Vaz9q4Bdx01VYCMzpnE5Ic=
-		</data>
-		<key>Modules/Chat.swiftmodule/.DS_Store</key>
-		<data>
-		VE3/X8+/ewSRl4SVaeoFAFT1+4k=
+		cAHEh4fg/7KdHVmLc/EwxX7RDYU=
 		</data>
 		<key>Modules/Chat.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		lxMXi0rxdxl+GFlULRrPwt4ByP8=
+		jXiKWyTJmRfW/aX1d/pz0raL74U=
 		</data>
 		<key>Modules/Chat.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		lxMXi0rxdxl+GFlULRrPwt4ByP8=
+		jXiKWyTJmRfW/aX1d/pz0raL74U=
 		</data>
 		<key>Modules/Chat.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -90,11 +78,11 @@
 		</data>
 		<key>Modules/Chat.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		JQwXRlD51q+WPvn0EojOTf+NhnU=
+		7KfNVs3qiSBdwkhZk9kGy/IQZT8=
 		</data>
 		<key>Modules/Chat.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		0XwA/33HunY6PoF++U2HQToIw2s=
+		17DY1nOmwh+b514eQjtz7EwgCi8=
 		</data>
 		<key>Modules/Chat.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -102,11 +90,11 @@
 		</data>
 		<key>Modules/Chat.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		JQwXRlD51q+WPvn0EojOTf+NhnU=
+		7KfNVs3qiSBdwkhZk9kGy/IQZT8=
 		</data>
 		<key>Modules/Chat.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		0XwA/33HunY6PoF++U2HQToIw2s=
+		17DY1nOmwh+b514eQjtz7EwgCi8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -114,27 +102,27 @@
 		</data>
 		<key>OtherBanksSelectorViewController.nib</key>
 		<data>
-		pyr5+dPVqRgQp7ATbtp/OGHnn3k=
+		8R9YKaM/BG6kPsEDiZOaqOo5oAE=
 		</data>
 		<key>PasswordBoardViewController.nib</key>
 		<data>
-		M+UY0nLQuhIgjrS3gz3vyzwsAJ4=
+		pWxMa8LV0aZECzChfATJcayRe8g=
 		</data>
 		<key>PerformTransferViewController.nib</key>
 		<data>
-		8Tqwb1FXHvk8W92gxxqMTjlhi1Y=
+		tWKpDyex2LF4jZMrmog3sgwyMBk=
 		</data>
 		<key>TransactionEndViewController.nib</key>
 		<data>
-		Oty45Ipjm0ssAuvpDhEWeB8m3rw=
+		lFy+AAW3+l9l4qh92+EAvfbTycU=
 		</data>
 		<key>TransactionViewController.nib</key>
 		<data>
-		Zlyr/qzSdAiBAC/s7Da99O0Aiiw=
+		N/Kuf5E+gpaiFI7RcGTpHDftWiE=
 		</data>
 		<key>TransferFundsPinViewController.nib</key>
 		<data>
-		g0K2XSBdMXl0MHVuw/qsKsSdU0E=
+		b/o6xUi7g0WOHfcXzOtni+2W4I8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -143,49 +131,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mFG5vjTxvhNeP6UpRMUr4ZZsGoJXKywBdFhojQj2XgE=
+			2Ze/SyhtLHsQrKlHKGgRNOwgGFn23mWDFaBRNc9ZuJs=
 			</data>
 		</dict>
 		<key>AirtimeAmountViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BWJoBsZ0mVOU+kVR1CvynyfL8mmJ7cYLX3aPSq986RQ=
+			0xHkJwP5qNMJbdm9h/Icgqtq1j1T1gQRQ27H/m/meY0=
 			</data>
 		</dict>
 		<key>AirtimeNetworkViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8mp5R88vP+51hYHEZtcr4Fj7vKPAKgXMdZMxzrCdIOo=
+			+U33wwluRw4V7SAayUuk/Rg0XKJQsrQ8ZPgG7UdwGJI=
 			</data>
 		</dict>
 		<key>AirtimeNumberViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oiX1caOY6tyu3vjOrmkPhGmfy9Yn256BrUs7oxSje/U=
+			XXz4n0mh0jhxICmDRUwBeLVIhpvjonjtqJV/VXrwNew=
 			</data>
 		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5+ZgvMe0YfIr4JcVjAkETJ55PhNLlEgKl2rZVGf5wbo=
+			/eWVg4s/p9fffGvNOFe8MyPVsru8raptyx8kf8XyAvE=
 			</data>
 		</dict>
 		<key>BillTypeViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NMlqdTBCGMvYTiZZWT9yh4II1q2dgw8CHoAKE1nDM+U=
+			eHu//c1M2HmaU1rGiG/8xviTZlZvrB67PiHSwTH+Z2A=
 			</data>
 		</dict>
 		<key>BillsPlanSelectionViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vbbv9mi4npLNeevx3H+KsLKSrMRtyuHmK0LkEjyFL0Q=
+			DLhqTBAHxwq2zTcb2vl4vMeOyVUTw2Kf7RbyXo5reEo=
 			</data>
 		</dict>
 		<key>Headers/Chat-Swift.h</key>
@@ -206,49 +194,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WqcViwUCydViuSOTYoSEEi3Amv8uaSg8wAi5QEb4RM0=
+			afRgZ6YOxMxHS/I5ivTEy68wxW3b7faAsKwzKxQNlok=
 			</data>
 		</dict>
 		<key>InputAcctNoViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			35yd6gU8XGM642Hj5hUZYDYpfm+dDXijzTWttbl6jzI=
+			aSaec3aTLp+gDKKFSAtSOVFrKdpB5LwnfYM8NuxTYo8=
 			</data>
 		</dict>
 		<key>InputAmountViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TkpoemZK98FT2B3iXwoD6oMRacYA8qoAhiR6tjZNzM4=
+			aCs32vbSj+DgNlYsIPWKPUmDfn5wzWDtyr2cXcRslY4=
 			</data>
 		</dict>
 		<key>KeyboardController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CZJuumxfIOc7//dx1Pee7kzSh8QT+D8WrGSI10PR9qc=
+			et+l9+RYeCD/agHWT/ukqh/s5riy9AhX9OjXMJpqV7Q=
 			</data>
 		</dict>
 		<key>LoginViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4+sUmOuL0DUMB+qe1YfTrWTMaiQKtwz5c+C8xHR3o5s=
+			a36owuyFxiDNMhr+GsK/2cprfm28IZpxzIEXCprliBE=
 			</data>
 		</dict>
 		<key>Modules/Chat.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i6ZyXKHw8TiBFjp5lRSeFsekPnLYXtVfG4hEzK5dj1A=
+			Uza+VEX4xaus1lf6s5HSUxJuYaUk3r0WDgbC1VQU3DQ=
 			</data>
 		</dict>
 		<key>Modules/Chat.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i6ZyXKHw8TiBFjp5lRSeFsekPnLYXtVfG4hEzK5dj1A=
+			Uza+VEX4xaus1lf6s5HSUxJuYaUk3r0WDgbC1VQU3DQ=
 			</data>
 		</dict>
 		<key>Modules/Chat.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -262,14 +250,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			q8qrHcgeDbxjRRLHA7Cx01wFrbhHITa436RPuB1Dr+w=
+			7wqnl1DOzykUCDniQ6GuLd4NvtPpCfzyT0AMoOPdXag=
 			</data>
 		</dict>
 		<key>Modules/Chat.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AVP6LbYDokthX8CGa/W++pQ69Nru8UOLZClmryN5P1o=
+			bj7kd696H5tcuAqY8YuMVGVt5dBFxHE58VIUcd9PJeo=
 			</data>
 		</dict>
 		<key>Modules/Chat.swiftmodule/arm64.swiftdoc</key>
@@ -283,14 +271,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			q8qrHcgeDbxjRRLHA7Cx01wFrbhHITa436RPuB1Dr+w=
+			7wqnl1DOzykUCDniQ6GuLd4NvtPpCfzyT0AMoOPdXag=
 			</data>
 		</dict>
 		<key>Modules/Chat.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AVP6LbYDokthX8CGa/W++pQ69Nru8UOLZClmryN5P1o=
+			bj7kd696H5tcuAqY8YuMVGVt5dBFxHE58VIUcd9PJeo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -304,42 +292,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZaBqWxLbUCmvIesPKxijHmRvv8x/wFJXRDiiHUYKlSw=
+			hT/W3fMj3d1f7XufAB4MUUjRz6+c4STILBpj4zpkTf8=
 			</data>
 		</dict>
 		<key>PasswordBoardViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T1kNFXQz0pzDceHnz6U+z221Kf+kpcs23p2eRnHxyJQ=
+			cIGovIr8TQCzx3CagDWYuYQSGLHANdkThsOUv/tB5Yc=
 			</data>
 		</dict>
 		<key>PerformTransferViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VD7oH06LK4A5PcXZ77Az/DNYX4JiLqn2cHvOt5ZyLXQ=
+			g9gXJlYSoBY8Vxr6CTm6/eV8RtFiGTUoCl9qU3tw6CM=
 			</data>
 		</dict>
 		<key>TransactionEndViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MX/QuESbMgfy44Xtsjdzqanisd+G5ECVESiepx1WkIs=
+			vP1OpzN6+ky6ke7ZZFsmiGp2k9Y/iXvg6x4eZa2Ln3M=
 			</data>
 		</dict>
 		<key>TransactionViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p1GjIeTj4RpNRC/UtYshJzG6PGF5JNbePrO3mvi4+EU=
+			7HwAN1Gq3I8mhRGS7z9nA6XWPFglPYAoSQ5tqQx63io=
 			</data>
 		</dict>
 		<key>TransferFundsPinViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TTNSRvb6eo4FFxh5NDnQlkH66EcIqzSfRbYuBgJMOKQ=
+			QHh4bVJ8p5J8SgpG7baeuBQpYBmHrVFd+7SZFcoCwTw=
 			</data>
 		</dict>
 	</dict>
